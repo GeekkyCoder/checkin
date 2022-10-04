@@ -16,4 +16,4 @@ Users can select their color e.g: Monochrome,Complement,Analogic and so on, once
 ![Image](color-pallete.png)
 
 ### Contributor
-[Geekky Coder](https://github.com/GeekkyCoder))
+[Geekky Coder](https://github.com/GeekkyCoder)
